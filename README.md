@@ -4,7 +4,7 @@
 
 ### SECTIONS:
 #### The Classical Archive (History, Myth, Art)
-#### The Immersive (Modern day science and medicine)
+#### The Immersive (Modern day science)
 #### The Ledger (Modern Issues)
 #### The Script Archive (Creative writing)
 
