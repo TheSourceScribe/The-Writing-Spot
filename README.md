@@ -1,6 +1,6 @@
 # The-Writing-Spot
 
-### The Writing Spot prides itself on being a platform where students write about their passions and share them with others. From Greek mythology to , The Writing Spot is a source of inspiration and insight.
+### The Writing Spot prides itself on being a platform where students write about their passions and share them with others. From Greek mythology to current issues, The Writing Spot is a source of inspiration and insight.
 
 ### SECTIONS:
 #### The Classical Archive (History, Myth, Art)
